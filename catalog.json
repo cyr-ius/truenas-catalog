@@ -2,6 +2,37 @@
     "charts": {},
     "test": {},
     "stable": {
+        "cert-manager-webhook-pdns": {
+            "app_readme": "<p>Cert Manager Webhook for PowerDNS.</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/cert-manager-webhook-pdns\">https://truecharts.org/charts/stable/cert-manager-webhook-pdns</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "categories": [
+                "home-automation"
+            ],
+            "description": "Cert Manager Webhook for PowerDNS.",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://github.com/cyr-ius/cert-manager-webhook-pdns",
+            "location": "/home/runner/work/truenas-catalog/truenas-catalog/stable/cert-manager-webhook-pdns",
+            "latest_version": "1.4.1",
+            "latest_app_version": "v1.1.4",
+            "latest_human_version": "v1.1.4_1.4.1",
+            "last_update": "2024-05-26 12:14:05",
+            "name": "cert-manager-webhook-pdns",
+            "recommended": false,
+            "title": "Cert-manager-webhook-pdns",
+            "maintainers": [
+                {
+                    "name": "Cyr-ius",
+                    "email": "webmaster@ipocus.net",
+                    "url": "https://ipocus.net"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://github.com/cyr-ius/truenas-charts/tree/my-refs/charts/stable/cert-manager-webhook-pdns"
+            ],
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/clusterissuer.png"
+        },
         "home-assistant": {
             "app_readme": "<p>home-assistant App for TrueNAS SCALE</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/home-assistant\">https://truecharts.org/charts/stable/home-assistant</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
             "categories": [
@@ -12,10 +43,10 @@
             "healthy_error": null,
             "home": "https://truecharts.org/charts/stable/home-assistant",
             "location": "/home/runner/work/truenas-catalog/truenas-catalog/stable/home-assistant",
-            "latest_version": "21.0.5",
-            "latest_app_version": "2023.12.3",
-            "latest_human_version": "2023.12.3_21.0.5",
-            "last_update": "2023-12-22 14:17:27",
+            "latest_version": "24.11.1",
+            "latest_app_version": "2024.3.1",
+            "latest_human_version": "2024.3.1_24.11.1",
+            "last_update": "2024-05-26 12:14:05",
             "name": "home-assistant",
             "recommended": false,
             "title": "Home-assistant",
